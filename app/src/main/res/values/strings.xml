@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestExam</string>
+
+    <string name="msg_error">Error</string>
+    <string name="msg_socket_timeout_exception">Connection timeout</string>
+    <string name="msg_connection_exception">Connection error</string>
+    <string name="msg_runtime_exception">Oops! Something went wrong</string>
+    <string name="msg_unknown_host_exception">Unknown host exception</string>
+    <string name="msg_unknown_service_exception">Unknown service exception</string>
+
+    <string name="network_message">no network</string>
+    <string name="countersign">ok</string>
+    <string name="network_hint">Hint</string>
+    <string name="loading">loading...</string>
+    <string name="customer_list_failed">Customer List failed</string>
+</resources>
